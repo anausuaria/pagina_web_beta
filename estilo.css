@@ -1,0 +1,36 @@
+@import url('https://fonts.googleapis.com/css2?family=Nunito:ital,wght@1,200&display=swap');
+@import url('https://fonts.googleapis.com/css2? family=Bebas+Neue&display=swap');
+
+
+body{
+    font-family:'Nunito', sans-serif;
+    text-align: left;
+    text-align: justify;
+    
+   
+
+}
+
+h1{
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    text-align: justify;
+}
+
+
+h2{
+    font-family: 'Bebas Neue', sans-serif;
+
+}
+
+img{
+    width: 300px;
+}
+
+p span {
+    display: block;
+  }
+
+  main{
+    width: 900px;
+    margin: 0 auto;
+  }
