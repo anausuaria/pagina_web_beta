@@ -3,6 +3,8 @@
 
 
 body{
+    margin: 0;
+    padding: 0;
     font-family:'Nunito', sans-serif;
     text-align: left;
     text-align: justify;
@@ -33,4 +35,9 @@ p span {
   main{
     width: 900px;
     margin: 0 auto;
+  }
+
+  a{
+    text-decoration: none;
+    text-transform: lowercase;
   }
